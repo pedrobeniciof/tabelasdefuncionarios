@@ -1,0 +1,20 @@
+.tabela{
+    width: 40%;
+    margin: auto;
+    margin-top: 10%;
+}
+.tabela_geral{
+    display: flex;
+}
+.tabela, tr, th, td{
+    border: solid 2px black;
+    border-collapse: collapse;
+    padding: 6px;
+}
+.esquerda{
+    text-align: left;
+}
+
+tbody{
+    text-align: center;
+}
